@@ -1,3 +1,9 @@
+from dotenv import load_dotenv
+#used to locate the path of the .env file 
+import os
+
+load_dotenv()
+
 #used to help convert the date and time in to more readeable date for the end-user
 import datetime as dt
 
@@ -6,7 +12,8 @@ import requests
 
 #used to get the information from the specific website 
 Base_url = "http://api.openweathermap.org/data/2.5/weather?"
-Api_key = "9011269d10a56718c2c0122aeae85304"
+
+Api_key = os.getenv("Api_keys")
 
 print("Welcome to Simon's Weather Station")
 
