@@ -1,3 +1,9 @@
+#used to help import the python package for design on the heading
+from pyfiglet import Figlet
+
+figlet = Figlet (font = 'slant')
+
+
 from dotenv import load_dotenv
 #used to locate the path of the .env file 
 import os
@@ -15,7 +21,7 @@ Base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 Api_key = os.getenv("Api_keys")
 
-print("Welcome to Simon's Weather Station")
+print(figlet.renderText("Welcome to Simon's Weather Station"))
 
 
 #used to get the user location
