@@ -13,3 +13,8 @@ A weather station is a collection of instruments that measure atmosphericconditi
 2. An account with 'Open Weather map'.https://openweathermap.org/
 3. You will need your api keys from 'Open Weather map'
 4. You will need to replace the word "Api_keys" with your api keys from 'Open Weather map'
+
+
+# How the project looks is the shell or terminal
+![image](https://user-images.githubusercontent.com/101131942/209798273-2683cb45-8ae4-4aa1-9d30-f3f8523d81ca.png)
+
