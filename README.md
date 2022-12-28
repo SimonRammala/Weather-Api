@@ -1,5 +1,5 @@
 # Weather Station
-A weather station is a collection of instruments that measure atmosphericconditions to help study the weather and climate of a specific location.
+A weather station is a group of sensors used to measure atmospheric conditions in order to understand the local environment and weather. 
 
 # How to run the program
 1. You can either fork or download the project folder or code to your device.
@@ -13,7 +13,7 @@ A weather station is a collection of instruments that measure atmosphericconditi
 2. An account with 'Open Weather map'.https://openweathermap.org/
 3. You will need your api keys from 'Open Weather map'
 4. You will need to replace the word "Api_keys" with your api keys from 'Open Weather map'
-
+![image](https://user-images.githubusercontent.com/101131942/209799766-e96884b0-cc30-4e41-87f2-414a4c8ca9a0.png)
 
 # How the project looks is the shell or terminal
 ![image](https://user-images.githubusercontent.com/101131942/209798273-2683cb45-8ae4-4aa1-9d30-f3f8523d81ca.png)
