@@ -32,10 +32,7 @@ A weather station is a group of sensors used to measure atmospheric conditions i
 # How the project looks is the shell or terminal
 ![image](https://user-images.githubusercontent.com/101131942/209798273-2683cb45-8ae4-4aa1-9d30-f3f8523d81ca.png)
 
-# How the project looks in a texteditor
-![image](https://user-images.githubusercontent.com/101131942/209798900-3b862fe1-e3c4-43f8-8876-a744ba1bbb35.png)
-![image](https://user-images.githubusercontent.com/101131942/209799026-b4e6a748-a9b2-47dd-a685-9a44843bf3cc.png)
-![image](https://user-images.githubusercontent.com/101131942/209799109-12fc8477-496d-43c6-a31a-a3c230f88008.png)
+
 
 
 
